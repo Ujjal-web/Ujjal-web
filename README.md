@@ -1,7 +1,28 @@
 <h1 align="center">Hi, I'm Ujjal Das</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=E3405F&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+%26+React+Developer" alt="Typing SVG" /></a>
+</p> 
 
+--- 
+  
+## 🧑‍💻 About Me 
+
+I’m a MERN stack developer with a strong passion for building dynamic, responsive, and user-friendly web applications. I specialize in crafting end-to-end solutions using MongoDB, Express.js, React, and Node.js, and I enjoy transforming ideas into functional digital experiences.
+
+With a solid understanding of both frontend and backend development, I focus on writing clean and scalable code. I love solving real-world problems, optimizing workflows, and continuously learning new technologies to improve my craft.
+
+---  
+ 
+## 🚀 Current Activities 
+
+* 🌍  I'm based in Bangladesh
+* ✉️  You can contact me at [ujjaldas827@gmail.com](mailto:ujjaldas827@gmail.com)
+* 🚀  I'm currently working on [Full Stack Peoject](http://)
+* 🤝  I'm open to collaborating on Next.js Projects
+* ⚡  I would appreciate any suggestions on how I can improve myself!
+* 📞 Mobile/whatsapp: **+880 17493 61101**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
