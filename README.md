@@ -15,20 +15,6 @@ With a solid understanding of both frontend and backend development, I focus on 
 
 ---  
  
-## 🚀 Current Activities 
-
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [ujjaldas827@gmail.com](mailto:ujjaldas827@gmail.com)
-* 🚀  I'm currently working on [Full Stack Peoject](http://)
-* 🤝  I'm open to collaborating on Next.js Projects
-* ⚡  I would appreciate any suggestions on how I can improve myself!
-* 📞 Mobile/whatsapp: **+880 17493 61101**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ujjal-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjal-web" height="30" width="40" /></a>
-</p>
-
 <h3>When I code, I rely on</h3>
 
 
@@ -39,6 +25,19 @@ With a solid understanding of both frontend and backend development, I focus on 
 | **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)                                                   |
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)                                                          |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ! |
+
+## 🚀 Current Activities 
+
+* 🌍  I'm based in Bangladesh
+* ✉️  You can contact me at [ujjaldas827@gmail.com](mailto:ujjaldas827@gmail.com)
+* 🤝  I'm open to collaborating on Next.js Projects
+* ⚡  I would appreciate any suggestions on how I can improve myself!
+* 📞 Mobile/whatsapp: **+880 17493 61101**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ujjal-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjal-web" height="30" width="40" /></a>
+</p>
 
 
 
