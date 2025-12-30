@@ -45,10 +45,10 @@ With a solid understanding of both frontend and backend development, I focus on 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjal-web&show_icons=true&locale=en&layout=compact" alt="ujjal-web" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjal-web&show_icons=true&locale=en&layout=compact" alt="ujjal-web" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjal-web&show_icons=true&locale=en" alt="ujjal-web" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjal-web&show_icons=true&locale=en" alt="ujjal-web" /></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjal-web&label=Profile%20views&color=0e75b6&style=flat" alt="ujjal-web" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjal-web&" alt="ujjal-web" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjal-web&" alt="ujjal-web" /></p> -->
