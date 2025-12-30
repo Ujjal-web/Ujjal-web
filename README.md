@@ -51,4 +51,4 @@ With a solid understanding of both frontend and backend development, I focus on 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjal-web&label=Profile%20views&color=0e75b6&style=flat" alt="ujjal-web" /> </p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjal-web&" alt="ujjal-web" /></p> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjal-web" alt="ujjal-web" /></p>
