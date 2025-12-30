@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ujjal Das</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=E3405F&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+%26+React+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=0F172A&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
 </p> 
 
 --- 
