@@ -12,7 +12,7 @@
   
 ## 🧑‍💻 About Me 
 
-I’m a MERN stack developer with a strong passion for building dynamic, responsive, and user-friendly web applications. I specialize in crafting end-to-end solutions using MongoDB, Express.js, React, and Node.js, and I enjoy transforming ideas into functional digital experiences.
+I’m a MERN stack developer with a strong passion for building dynamic, responsive, and user-friendly web applications. I build end-to-end solutions using MongoDB, Express.js, React, and Node.js, and I enjoy transforming ideas into functional digital experiences.
 
 With a solid understanding of both frontend and backend development, I focus on writing clean and scalable code. I love solving real-world problems, optimizing workflows, and continuously learning new technologies to improve my craft.
 
@@ -31,11 +31,12 @@ With a solid understanding of both frontend and backend development, I focus on 
 
 ## 🚀 Current Activities 
 
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [ujjaldas827@gmail.com](mailto:ujjaldas827@gmail.com)
+* 🌍  I'm currently exploring Next.JS
 * 🤝  I'm open to collaborating on Next.js Projects
+* 🌍  I’m working on a Caregiving website.
+* ✉️  You can contact me at [ujjaldas827@gmail.com](mailto:ujjaldas827@gmail.com)
 * ⚡  I would appreciate any suggestions on how I can improve myself!
-* 📞 Mobile/whatsapp: **+880 17493 61101**
+* 📞  Mobile/whatsapp: **+880 17493 61101**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
